@@ -1,0 +1,8 @@
+D:\sem6\защита\lab1_криптошифры\lab1\lab1\bin\Debug\lab1.exe.config
+D:\sem6\защита\lab1_криптошифры\lab1\lab1\bin\Debug\lab1.exe
+D:\sem6\защита\lab1_криптошифры\lab1\lab1\bin\Debug\lab1.pdb
+D:\sem6\защита\lab1_криптошифры\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+D:\sem6\защита\lab1_криптошифры\lab1\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+D:\sem6\защита\lab1_криптошифры\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\sem6\защита\lab1_криптошифры\lab1\lab1\obj\Debug\lab1.exe
+D:\sem6\защита\lab1_криптошифры\lab1\lab1\obj\Debug\lab1.pdb

@@ -1,0 +1,8 @@
+D:\sem6\security_info\lab4_Enigma\enigm\enigm\bin\Debug\enigm.exe.config
+D:\sem6\security_info\lab4_Enigma\enigm\enigm\bin\Debug\enigm.exe
+D:\sem6\security_info\lab4_Enigma\enigm\enigm\bin\Debug\enigm.pdb
+D:\sem6\security_info\lab4_Enigma\enigm\enigm\obj\Debug\enigm.csproj.AssemblyReference.cache
+D:\sem6\security_info\lab4_Enigma\enigm\enigm\obj\Debug\enigm.csproj.SuggestedBindingRedirects.cache
+D:\sem6\security_info\lab4_Enigma\enigm\enigm\obj\Debug\enigm.csproj.CoreCompileInputs.cache
+D:\sem6\security_info\lab4_Enigma\enigm\enigm\obj\Debug\enigm.exe
+D:\sem6\security_info\lab4_Enigma\enigm\enigm\obj\Debug\enigm.pdb

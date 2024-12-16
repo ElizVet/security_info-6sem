@@ -1,0 +1,36 @@
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe.config
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\bin\Debug\Shorn_sign.pdb
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\obj\Debug\Shorn_sign.csprojAssemblyReference.cache
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\obj\Debug\Shorn_sign.csproj.CoreCompileInputs.cache
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\obj\Debug\Shorn_sign.exe
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\obj\Debug\Shorn_sign.pdb
+C:\main\6SEM\CRYPTO\crypto12\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe.config
+C:\main\6SEM\CRYPTO\crypto12\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe
+C:\main\6SEM\CRYPTO\crypto12\Sign\Shorn_sign\bin\Debug\Shorn_sign.pdb
+C:\main\6SEM\CRYPTO\crypto12\Sign\Shorn_sign\obj\Debug\Shorn_sign.csprojAssemblyReference.cache
+C:\main\6SEM\CRYPTO\crypto12\Sign\Shorn_sign\obj\Debug\Shorn_sign.csproj.CoreCompileInputs.cache
+C:\main\6SEM\CRYPTO\crypto12\Sign\Shorn_sign\obj\Debug\Shorn_sign.exe
+C:\main\6SEM\CRYPTO\crypto12\Sign\Shorn_sign\obj\Debug\Shorn_sign.pdb
+F:\учеба\3 курс 2 сем\ЗИ\Лабы\lab10\Sign\Shorn_sign\obj\Debug\Shorn_sign.csproj.AssemblyReference.cache
+F:\учеба\3 курс 2 сем\ЗИ\Лабы\lab10\Sign\Shorn_sign\obj\Debug\Shorn_sign.csproj.CoreCompileInputs.cache
+F:\учеба\3 курс 2 сем\ЗИ\Лабы\lab10\Sign\Shorn_sign\obj\Debug\Shorn_sign.exe
+F:\учеба\3 курс 2 сем\ЗИ\Лабы\lab10\Sign\Shorn_sign\obj\Debug\Shorn_sign.pdb
+F:\учеба\3 курс 2 сем\ЗИ\Лабы\lab10\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe.config
+F:\учеба\3 курс 2 сем\ЗИ\Лабы\lab10\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe
+F:\учеба\3 курс 2 сем\ЗИ\Лабы\lab10\Sign\Shorn_sign\bin\Debug\Shorn_sign.pdb
+D:\3 курс\3 курс 2 сем\ЗИ\Лабы\lab10\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe.config
+D:\3 курс\3 курс 2 сем\ЗИ\Лабы\lab10\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe
+D:\3 курс\3 курс 2 сем\ЗИ\Лабы\lab10\Sign\Shorn_sign\bin\Debug\Shorn_sign.pdb
+D:\3 курс\3 курс 2 сем\ЗИ\Лабы\lab10\Sign\Shorn_sign\obj\Debug\Shorn_sign.csprojAssemblyReference.cache
+D:\3 курс\3 курс 2 сем\ЗИ\Лабы\lab10\Sign\Shorn_sign\obj\Debug\Shorn_sign.csproj.CoreCompileInputs.cache
+D:\3 курс\3 курс 2 сем\ЗИ\Лабы\lab10\Sign\Shorn_sign\obj\Debug\Shorn_sign.exe
+D:\3 курс\3 курс 2 сем\ЗИ\Лабы\lab10\Sign\Shorn_sign\obj\Debug\Shorn_sign.pdb
+D:\sem6\security_info\lab10_ЭЦП\lab10\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe.config
+D:\sem6\security_info\lab10_ЭЦП\lab10\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe
+D:\sem6\security_info\lab10_ЭЦП\lab10\Sign\Shorn_sign\bin\Debug\Shorn_sign.pdb
+D:\sem6\security_info\lab10_ЭЦП\lab10\Sign\Shorn_sign\obj\Debug\Shorn_sign.csproj.AssemblyReference.cache
+D:\sem6\security_info\lab10_ЭЦП\lab10\Sign\Shorn_sign\obj\Debug\Shorn_sign.csproj.SuggestedBindingRedirects.cache
+D:\sem6\security_info\lab10_ЭЦП\lab10\Sign\Shorn_sign\obj\Debug\Shorn_sign.csproj.CoreCompileInputs.cache
+D:\sem6\security_info\lab10_ЭЦП\lab10\Sign\Shorn_sign\obj\Debug\Shorn_sign.exe
+D:\sem6\security_info\lab10_ЭЦП\lab10\Sign\Shorn_sign\obj\Debug\Shorn_sign.pdb

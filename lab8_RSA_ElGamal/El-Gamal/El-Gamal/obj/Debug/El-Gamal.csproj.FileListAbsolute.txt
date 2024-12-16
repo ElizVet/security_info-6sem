@@ -1,0 +1,61 @@
+D:\6sem\Криптографические методы защиты информации\Лабораторная_8\El-Gamal\El-Gamal\bin\Debug\El-Gamal.exe.config
+D:\6sem\Криптографические методы защиты информации\Лабораторная_8\El-Gamal\El-Gamal\bin\Debug\El-Gamal.exe
+D:\6sem\Криптографические методы защиты информации\Лабораторная_8\El-Gamal\El-Gamal\bin\Debug\El-Gamal.pdb
+D:\6sem\Криптографические методы защиты информации\Лабораторная_8\El-Gamal\El-Gamal\bin\Debug\MathNet.Numerics.dll
+D:\6sem\Криптографические методы защиты информации\Лабораторная_8\El-Gamal\El-Gamal\bin\Debug\MathNet.Numerics.xml
+D:\6sem\Криптографические методы защиты информации\Лабораторная_8\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csproj.CoreCompileInputs.cache
+D:\6sem\Криптографические методы защиты информации\Лабораторная_8\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csproj.CopyComplete
+D:\6sem\Криптографические методы защиты информации\Лабораторная_8\El-Gamal\El-Gamal\obj\Debug\El-Gamal.exe
+D:\6sem\Криптографические методы защиты информации\Лабораторная_8\El-Gamal\El-Gamal\obj\Debug\El-Gamal.pdb
+D:\6sem\Криптографические методы защиты информации\Лабораторная_8\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csprojAssemblyReference.cache
+D:\3\КМЗИ\лабы\Best-cryptography-Labs-master\Лабораторная_8\El-Gamal\El-Gamal\bin\Debug\El-Gamal.exe.config
+D:\3\КМЗИ\лабы\Best-cryptography-Labs-master\Лабораторная_8\El-Gamal\El-Gamal\bin\Debug\El-Gamal.exe
+D:\3\КМЗИ\лабы\Best-cryptography-Labs-master\Лабораторная_8\El-Gamal\El-Gamal\bin\Debug\El-Gamal.pdb
+D:\3\КМЗИ\лабы\Best-cryptography-Labs-master\Лабораторная_8\El-Gamal\El-Gamal\bin\Debug\MathNet.Numerics.dll
+D:\3\КМЗИ\лабы\Best-cryptography-Labs-master\Лабораторная_8\El-Gamal\El-Gamal\bin\Debug\MathNet.Numerics.xml
+D:\3\КМЗИ\лабы\Best-cryptography-Labs-master\Лабораторная_8\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csprojAssemblyReference.cache
+D:\3\КМЗИ\лабы\Best-cryptography-Labs-master\Лабораторная_8\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csproj.CoreCompileInputs.cache
+D:\3\КМЗИ\лабы\Best-cryptography-Labs-master\Лабораторная_8\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csproj.CopyComplete
+D:\3\КМЗИ\лабы\Best-cryptography-Labs-master\Лабораторная_8\El-Gamal\El-Gamal\obj\Debug\El-Gamal.exe
+D:\3\КМЗИ\лабы\Best-cryptography-Labs-master\Лабораторная_8\El-Gamal\El-Gamal\obj\Debug\El-Gamal.pdb
+D:\3\КМЗИ\8 - RSA, Эль Гамаль\El-Gamal\El-Gamal\bin\Debug\El-Gamal.exe.config
+D:\3\КМЗИ\8 - RSA, Эль Гамаль\El-Gamal\El-Gamal\bin\Debug\El-Gamal.exe
+D:\3\КМЗИ\8 - RSA, Эль Гамаль\El-Gamal\El-Gamal\bin\Debug\El-Gamal.pdb
+D:\3\КМЗИ\8 - RSA, Эль Гамаль\El-Gamal\El-Gamal\bin\Debug\MathNet.Numerics.dll
+D:\3\КМЗИ\8 - RSA, Эль Гамаль\El-Gamal\El-Gamal\bin\Debug\MathNet.Numerics.xml
+D:\3\КМЗИ\8 - RSA, Эль Гамаль\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csprojAssemblyReference.cache
+D:\3\КМЗИ\8 - RSA, Эль Гамаль\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csproj.CoreCompileInputs.cache
+D:\3\КМЗИ\8 - RSA, Эль Гамаль\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csproj.CopyComplete
+D:\3\КМЗИ\8 - RSA, Эль Гамаль\El-Gamal\El-Gamal\obj\Debug\El-Gamal.exe
+D:\3\КМЗИ\8 - RSA, Эль Гамаль\El-Gamal\El-Gamal\obj\Debug\El-Gamal.pdb
+C:\main\6SEM\CRYPTO\crypto10\El-Gamal\El-Gamal\bin\Debug\El-Gamal.exe.config
+C:\main\6SEM\CRYPTO\crypto10\El-Gamal\El-Gamal\bin\Debug\El-Gamal.exe
+C:\main\6SEM\CRYPTO\crypto10\El-Gamal\El-Gamal\bin\Debug\El-Gamal.pdb
+C:\main\6SEM\CRYPTO\crypto10\El-Gamal\El-Gamal\bin\Debug\MathNet.Numerics.dll
+C:\main\6SEM\CRYPTO\crypto10\El-Gamal\El-Gamal\bin\Debug\MathNet.Numerics.xml
+C:\main\6SEM\CRYPTO\crypto10\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csprojAssemblyReference.cache
+C:\main\6SEM\CRYPTO\crypto10\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csproj.CoreCompileInputs.cache
+C:\main\6SEM\CRYPTO\crypto10\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csproj.CopyComplete
+C:\main\6SEM\CRYPTO\crypto10\El-Gamal\El-Gamal\obj\Debug\El-Gamal.exe
+C:\main\6SEM\CRYPTO\crypto10\El-Gamal\El-Gamal\obj\Debug\El-Gamal.pdb
+F:\учеба\3 курс 2 сем\ЗИ\Лабы\lab8\El-Gamal\El-Gamal\bin\Debug\El-Gamal.exe.config
+F:\учеба\3 курс 2 сем\ЗИ\Лабы\lab8\El-Gamal\El-Gamal\bin\Debug\El-Gamal.exe
+F:\учеба\3 курс 2 сем\ЗИ\Лабы\lab8\El-Gamal\El-Gamal\bin\Debug\El-Gamal.pdb
+F:\учеба\3 курс 2 сем\ЗИ\Лабы\lab8\El-Gamal\El-Gamal\bin\Debug\MathNet.Numerics.dll
+F:\учеба\3 курс 2 сем\ЗИ\Лабы\lab8\El-Gamal\El-Gamal\bin\Debug\MathNet.Numerics.xml
+F:\учеба\3 курс 2 сем\ЗИ\Лабы\lab8\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csproj.AssemblyReference.cache
+F:\учеба\3 курс 2 сем\ЗИ\Лабы\lab8\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csproj.CoreCompileInputs.cache
+F:\учеба\3 курс 2 сем\ЗИ\Лабы\lab8\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csproj.CopyComplete
+F:\учеба\3 курс 2 сем\ЗИ\Лабы\lab8\El-Gamal\El-Gamal\obj\Debug\El-Gamal.exe
+F:\учеба\3 курс 2 сем\ЗИ\Лабы\lab8\El-Gamal\El-Gamal\obj\Debug\El-Gamal.pdb
+D:\sem6\security_info\lab8_RSA_ElGamal\El-Gamal\El-Gamal\bin\Debug\El-Gamal.exe.config
+D:\sem6\security_info\lab8_RSA_ElGamal\El-Gamal\El-Gamal\bin\Debug\El-Gamal.exe
+D:\sem6\security_info\lab8_RSA_ElGamal\El-Gamal\El-Gamal\bin\Debug\El-Gamal.pdb
+D:\sem6\security_info\lab8_RSA_ElGamal\El-Gamal\El-Gamal\bin\Debug\MathNet.Numerics.dll
+D:\sem6\security_info\lab8_RSA_ElGamal\El-Gamal\El-Gamal\bin\Debug\MathNet.Numerics.xml
+D:\sem6\security_info\lab8_RSA_ElGamal\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csproj.AssemblyReference.cache
+D:\sem6\security_info\lab8_RSA_ElGamal\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csproj.SuggestedBindingRedirects.cache
+D:\sem6\security_info\lab8_RSA_ElGamal\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csproj.CoreCompileInputs.cache
+D:\sem6\security_info\lab8_RSA_ElGamal\El-Gamal\El-Gamal\obj\Debug\El-Gamal.csproj.CopyComplete
+D:\sem6\security_info\lab8_RSA_ElGamal\El-Gamal\El-Gamal\obj\Debug\El-Gamal.exe
+D:\sem6\security_info\lab8_RSA_ElGamal\El-Gamal\El-Gamal\obj\Debug\El-Gamal.pdb

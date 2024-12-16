@@ -1,0 +1,12 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+result1.txt
+
+result.txt
+
+Service/mark.cs
+
+*.txt

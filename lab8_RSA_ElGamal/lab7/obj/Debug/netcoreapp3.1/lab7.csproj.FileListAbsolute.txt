@@ -1,0 +1,13 @@
+D:\3_курс\2_семестр\Защитка\Лабы\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.exe
+D:\3_курс\2_семестр\Защитка\Лабы\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.deps.json
+D:\3_курс\2_семестр\Защитка\Лабы\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.runtimeconfig.json
+D:\3_курс\2_семестр\Защитка\Лабы\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.runtimeconfig.dev.json
+D:\3_курс\2_семестр\Защитка\Лабы\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.dll
+D:\3_курс\2_семестр\Защитка\Лабы\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.pdb
+D:\3_курс\2_семестр\Защитка\Лабы\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.csprojAssemblyReference.cache
+D:\3_курс\2_семестр\Защитка\Лабы\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.csproj.CoreCompileInputs.cache
+D:\3_курс\2_семестр\Защитка\Лабы\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.AssemblyInfoInputs.cache
+D:\3_курс\2_семестр\Защитка\Лабы\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.AssemblyInfo.cs
+D:\3_курс\2_семестр\Защитка\Лабы\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.dll
+D:\3_курс\2_семестр\Защитка\Лабы\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.pdb
+D:\3_курс\2_семестр\Защитка\Лабы\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.genruntimeconfig.cache

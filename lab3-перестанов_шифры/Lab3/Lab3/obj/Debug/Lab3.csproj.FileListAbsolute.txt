@@ -1,0 +1,51 @@
+D:\Учеба\ЗИНИС\2 сем\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Учеба\ЗИНИС\2 сем\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Учеба\ЗИНИС\2 сем\Lab3\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Учеба\ЗИНИС\2 сем\Lab3\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\Учеба\ЗИНИС\2 сем\Lab3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+D:\Учеба\ЗИНИС\2 сем\Lab3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Учеба\ЗИНИС\2 сем\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\Учеба\ЗИНИС\2 сем\Lab3\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Учеба\ЗИНИС\2 сем\Lab3\Lab3\Lab3\obj\Debug\Lab3.pdb
+f:\3 курс\2 сем\ЗИНИС\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+f:\3 курс\2 сем\ЗИНИС\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe
+f:\3 курс\2 сем\ЗИНИС\Lab3\Lab3\Lab3\bin\Debug\Lab3.pdb
+f:\3 курс\2 сем\ЗИНИС\Lab3\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+f:\3 курс\2 сем\ЗИНИС\Lab3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+f:\3 курс\2 сем\ЗИНИС\Lab3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+f:\3 курс\2 сем\ЗИНИС\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+f:\3 курс\2 сем\ЗИНИС\Lab3\Lab3\Lab3\obj\Debug\Lab3.exe
+f:\3 курс\2 сем\ЗИНИС\Lab3\Lab3\Lab3\obj\Debug\Lab3.pdb
+D:\MS\Future\4_Защита информации и надежность информационных систем\Sem_2\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\MS\Future\4_Защита информации и надежность информационных систем\Sem_2\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\MS\Future\4_Защита информации и надежность информационных систем\Sem_2\Lab3\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\MS\Future\4_Защита информации и надежность информационных систем\Sem_2\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\MS\Future\4_Защита информации и надежность информационных систем\Sem_2\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+D:\MS\Future\4_Защита информации и надежность информационных систем\Sem_2\Lab3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+D:\MS\Future\4_Защита информации и надежность информационных систем\Sem_2\Lab3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\MS\Future\4_Защита информации и надежность информационных систем\Sem_2\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\MS\Future\4_Защита информации и надежность информационных систем\Sem_2\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\MS\Future\4_Защита информации и надежность информационных систем\Sem_2\Lab3\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\MS\Future\4_Защита информации и надежность информационных систем\Sem_2\Lab3\Lab3\Lab3\obj\Debug\Lab3.pdb
+D:\ЗИиНИС\Лабораторная работа №3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\ЗИиНИС\Лабораторная работа №3\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\ЗИиНИС\Лабораторная работа №3\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\ЗИиНИС\Лабораторная работа №3\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\ЗИиНИС\Лабораторная работа №3\Lab3\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+D:\ЗИиНИС\Лабораторная работа №3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+D:\ЗИиНИС\Лабораторная работа №3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\ЗИиНИС\Лабораторная работа №3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\ЗИиНИС\Лабораторная работа №3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\ЗИиНИС\Лабораторная работа №3\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\ЗИиНИС\Лабораторная работа №3\Lab3\Lab3\obj\Debug\Lab3.pdb
+D:\sem6\security_info\lab3\Лабораторная работа №3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\sem6\security_info\lab3\Лабораторная работа №3\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\sem6\security_info\lab3\Лабораторная работа №3\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\sem6\security_info\lab3\Лабораторная работа №3\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\sem6\security_info\lab3\Лабораторная работа №3\Lab3\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+D:\sem6\security_info\lab3\Лабораторная работа №3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+D:\sem6\security_info\lab3\Лабораторная работа №3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\sem6\security_info\lab3\Лабораторная работа №3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\sem6\security_info\lab3\Лабораторная работа №3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\sem6\security_info\lab3\Лабораторная работа №3\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\sem6\security_info\lab3\Лабораторная работа №3\Lab3\Lab3\obj\Debug\Lab3.pdb

@@ -1,0 +1,8 @@
+D:\sem6\security_info\lab11_ЭК\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\sem6\security_info\lab11_ЭК\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\sem6\security_info\lab11_ЭК\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\sem6\security_info\lab11_ЭК\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\sem6\security_info\lab11_ЭК\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\sem6\security_info\lab11_ЭК\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\sem6\security_info\lab11_ЭК\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\sem6\security_info\lab11_ЭК\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
